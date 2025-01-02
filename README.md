@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Encrypted Chat Appliction**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **oghangale@gmail.com**
 
